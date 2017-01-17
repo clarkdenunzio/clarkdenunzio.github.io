@@ -27,13 +27,13 @@
       },
       {
         "network": "twitter",
-        "username": "clarkdenunzio",
-        "url": "http://twitter.com/clarkdenunzio"
+        "username": "",
+        "url": "http://twitter.com/"
       },
       {
         "network": "instagram",
-        "username": "clarkdenunzio",
-        "url": "http://instagram.com/clarkdenunzio"
+        "username": "",
+        "url": "http://instagram.com/"
       }
     ]
   },
@@ -41,36 +41,36 @@
     {
       "name": "internet of things",
       "keywords": [
-        "Arduino",
-        "Raspberry Pi"
+        "",
+        ""
       ]
     },
     {
       "name": "e-commerce",
       "keywords": [
-        "Woocommerce",
-        "Magento"
+        "",
+        ""
       ]
     },
     {
       "name": "node.js",
       "keywords": [
-        "Hexo",
-        "React"
+        "",
+        ""
       ]
     },
     {
       "name": "AWS",
       "keywords": [
-        "Certified Solutions Architect",
-        "EC2"
+        "",
+        ""
       ]
     },
     {
       "name": "Ubuntu",
       "keywords": [
-        "AWS",
-        "Raspberry Pi"
+        "",
+        ""
       ]
     }
   ],
@@ -142,33 +142,15 @@
         "Trim back invasive Mangrove species in the Fishpond",
         "Remove litter and other waste products"
       ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
-      ]
     }
+
   ],
   "awards": [
     {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
+      "title": "Dean's List",
+      "date": "Spring 2014",
+      "awarder": "Windward Community College",
+      "summary": "GPA acceptable for admissions to Dean's List"
     }
   ],
   "references": [
