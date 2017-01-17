@@ -1,15 +1,15 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
-date: 2015
+image: images/solarbeast.png
+title: Embedded System Design
+permalink: projects/solarbeast
+date: 2016
 labels:
-  - Robotics
+  - Angular.js
   - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - P-I-D
+summary: My team developed a P-I-D controlled system to rotate a solar panel toward the angle of the sun using Arduino and motors.
 ---
 
 <div class="ui small rounded images">
