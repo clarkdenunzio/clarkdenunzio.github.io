@@ -1,39 +1,39 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Clark DeNunzio",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "picture": "https://clarkdenunzio.github.io/template/images/IMG_0660.JPG",
+    "email": "clarkden@hawaii.edu",
+    "phone": "610-823-0455",
+    "website": "https://clarkdenunzio.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "96734",
+      "city": "Kailua",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "clarkdenunzio",
+        "url": "http://github.com/clarkdenunzio"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "clarkdenunzio",
+        "url": "http://linkedin.com/in/clarkdenunzio"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "clarkdenunzio",
+        "url": "http://twitter.com/clarkdenunzio"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "cdenunz",
+        "url": "http://instagram.com/cdenunz"
       }
     ]
   },
@@ -42,42 +42,61 @@
       "name": "internet of things",
       "keywords": [
         "Arduino",
-        "TI MSP430"
+        "Raspberry Pi"
       ]
     },
     {
-      "name": "data mining",
+      "name": "e-commerce",
       "keywords": [
+        "Woocommerce",
+        "Magento"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "node.js",
       "keywords": [
+        "Hexo",
+        "React"
+      ]
+    },
+    {
+      "name": "AWS",
+      "keywords": [
+        "Certified Solutions Architect",
+        "EC2"
+      ]
+    },
+    {
+      "name": "Ubuntu",
+      "keywords": [
+        "AWS",
+        "Raspberry Pi"
       ]
     }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "",
+      "level": "Journeyman",
       "keywords": [
         "C",
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "WordPress",
+        "HTML",
+        "CSS"
       ]
     },
     {
       "name": "Toolsets/OS",
-      "level": "",
+      "level": "Hobbyist",
       "keywords": [
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
         "g++",
-        "TI LaunchPad"
+        "CentOS"
       ]
     }
   ],
@@ -86,24 +105,24 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2016-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "2.5",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "DeNunzio Web Studio",
+      "position": "Owner",
+      "website": "tanuki.gg",
+      "startDate": "2016-10-07",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Sole Proprietorship to encapsulate web activity for tax purposes",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Conduct research for market and relevant technologies to implement devised strategy",
+        "Spearhead engineering tasks as a one-man team"
       ]
     },
     {
