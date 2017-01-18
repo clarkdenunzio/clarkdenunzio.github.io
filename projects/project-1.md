@@ -1,3 +1,4 @@
+---
 type: project
 image: images/solarbeast.png
 title: Embedded System Design
