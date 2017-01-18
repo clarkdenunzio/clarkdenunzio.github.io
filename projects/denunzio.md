@@ -9,7 +9,7 @@ labels:
   - woocommerce
   - Hexo
   - react.js
-  - GitHub
+  - AWS
 summary: A sole proprietorship created for tax purposes to encapsulate my attempts at viable e-commerce.
 ---
 
