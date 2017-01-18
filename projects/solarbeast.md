@@ -12,11 +12,11 @@ labels:
 summary: Team based EE x96 project course focused on Embedded System Design using Arduino.
 ---
 
-<div class="ui violet segment">
-    <div class="ui-center-aligned">
-        Video Demonstation
-    </div>
+
+<div class="ui-center-aligned">
+    <h2 class="ui header">Video Demonstation</h2>
 </div>
+
 
 <div class="ui container">
 	<div class="ui embed" data-source="vimeo" data-id="199945024" data-placeholder="/images/solarbeast.png">
