@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Clark DeNunzio",
-    "label": "Web Developer",
+    "label": "Student",
     "picture": "https://clarkdenunzio.github.io/images/IMG_0660.JPG",
     "email": "clarkden@hawaii.edu",
     "phone": "",
     "website": "https://clarkdenunzio.github.io",
-    "summary": "Hello friends, I am a student studying for my B.S. in Computer Engineering at the University of Hawaii. I expect to graduate in Spring, 2018, after which my goal is to pursue entrepreneurism. Please stay tuned for more releases as I gain skill during my undergraduate.",
+    "summary": "Hello friends, I am studying for my B.S. in Computer Engineering at the University of Hawaii. I expect to graduate in Spring, 2018, after which my goal is to pursue entrepreneurism. Please stay tuned for more releases as I gain skill during my undergraduate.",
     "location": {
       "address": "",
       "postalCode": "96734",
@@ -116,9 +116,9 @@
   ],
   "work": [
     {
-      "company": "DeNunzio Web Studio",
+      "company": "DeNunzio Web Studios",
       "position": "Owner",
-      "website": "http://tanuki.gg",
+      "website": "http://deunz.io/",
       "startDate": "2016-10-07",
       "endDate": "Present",
       "summary": "Sole Proprietorship to encapsulate web activity for tax purposes",
@@ -136,20 +136,20 @@
       "position": "Student Volunteer",
       "startDate": "2011-01-11",
       "endDate": "2011-5-13",
-      "summary": "Study the Hawaiian Fishpond while performing conservation work",
+      "summary": "Study and Restore Waikalua Loko Fishpond with Windward Community College",
       "highlights": [
         "Trim back invasive Mangrove species in the Fishpond",
-        "Remove litter and other waste products"
+        "Remove litter and other waste materials"
       ]
     }
 
   ],
   "awards": [
     {
-      "title": "Dean's List",
-      "date": "Spring 2014",
-      "awarder": "Windward Community College",
-      "summary": "GPA acceptable for admissions to Dean's List"
+      "title": "White Belt",
+      "date": "September 2016",
+      "awarder": "Gracie Jiu Jitsu Kailua",
+      "summary": "Advancements toward higher belts"
     }
   ],
   "references": [
