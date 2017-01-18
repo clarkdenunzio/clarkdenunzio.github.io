@@ -10,7 +10,7 @@ labels:
   - Hexo
   - react.js
   - AWS
-summary: A sole proprietorship created for tax purposes to encapsulate my attempts at viable e-commerce.
+summary: Sole proprietorship created for tax purposes to encapsulate my attempts at viable e-commerce.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/denunzio.jpg">

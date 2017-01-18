@@ -9,12 +9,12 @@ labels:
   - angular.js
   - Arduino
   - P-I-D
-summary: Team based EE x96 project course focused on Embedded System Design using Arduino.
+summary: Embedded Systems Design--Team based EE x96 project course focused on using Arduino.
 ---
 
 <div class="ui teal inverted center aligned segment">
 <div class="ui center aligned segment">
-    <h2 class="ui header">Video Demonstation</h2>
+    <h2 class="ui header">Video Demonstration</h2>
 </div>
 </div>
 
