@@ -8,7 +8,7 @@ labels:
   - Frameworks
 ---
 
-<img class="ui medium rounded image" src="../images/expert.png">
+<img class="ui medium rounded floated image" src="../images/expert.png">
 
 When it all began I was either watching an episode of ABC's Shark Tank or NBC's The Profit; once I saw what qualified as a passable business plan, I was hooked. 
 As an avid gamer and wannabe cyber-athlete, I took to business a new frontier of gaming. 
