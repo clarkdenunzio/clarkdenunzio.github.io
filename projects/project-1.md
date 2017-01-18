@@ -1,5 +1,3 @@
----
-layout: project
 type: project
 image: images/solarbeast.png
 title: Embedded System Design
@@ -9,21 +7,17 @@ labels:
   - Angular.js
   - Arduino
   - P-I-D
-summary: My team developed a P-I-D controlled system to rotate a solar panel toward the angle of the sun using Arduino and motors.
+summary: My team developed a P-I-D controlled, pan-tilt system to rotate a solar panel toward the angle of the sun using Arduino and motors.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+<div class="ui embed" data-source="vimeo" data-id="199945024" data-placeholder="/images/solarbeast.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Embedded System Design challenged us to use the popular Arduino microcontroller to build an innovative new product.  The project culminated with a sales pitch presentation at the end of the semester.  Many of the teams created intersting prodcuts that pushed the limits of what is possible with just an Arduino.  The motivation behind our project was to develop a cheap, peripheral system that can improve the power quality of solar arrays.  In particular, one way to improve power quality is to include a magnification lens transposed over the solar panel, the drawback, however, is angle of incidence must be nearly perfect for the power quality to improve.  Our system set to solve this problem using Log-Scale Analog Light Sensors, 180-degree Servo, and 3200-N Linear Actuater in conjunction with our Arduino.  Although initially designed as a theoretically addition to a magnified solar array, the system was capable of maintaing a 14V floating charge on a lead-acid powerbank, and led to data that supports a 13% increase in energy collection on traditional solar panels.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+In this project, I was a lead programmer who was responsible for programming the P-I-D algorithm and subsequent tuning.  I started by programming a basic iteration of the P-I-D that was capable of making binary decisions.  After which, I began deciding how aggressive the movement of the motors should be in relation to the analog data stream from our ICs.  The pedagogy of the algorithm was that the system should try to minimize the standard deviation of the IC Light Sensors.  To achieve this, a schematic of edges between the ICs was devised and movement was tuned based on a greatest-edge calculation.  From there I worked to improve our Angular.JS web application which included a User-Interface for viewing metrics.  The project was a success as shown by the systems ability to keep a floating charge on the lead-acid powerbank.
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+You can learn more at the [UH EE Department](http://www.ee.hawaii.edu/).
 
 
 
