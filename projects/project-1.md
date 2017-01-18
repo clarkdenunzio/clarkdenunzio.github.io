@@ -1,16 +1,17 @@
 ---
+layout: project
 type: project
 image: images/solarbeast.png
-title: Embedded System Design
+title: Solar Beast
 permalink: projects/solarbeast
 date: 2016
 labels:
   - Angular.js
   - Arduino
   - P-I-D
-summary: My team developed a P-I-D controlled, pan-tilt system to rotate a solar panel toward the angle of the sun using Arduino and motors.
+summary: Team based EE x96 project course focused on Embedded System Design using Arduino.
 ---
-<h1>Embedded System Design</h1>
+
 <div class="ui container">
 	<div class="ui embed" data-source="vimeo" data-id="199945024" data-placeholder="/images/solarbeast.png">
 	</div>
