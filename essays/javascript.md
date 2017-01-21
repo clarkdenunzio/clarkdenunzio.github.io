@@ -17,14 +17,18 @@ As my picture below demonstrates, this is not a beast fought with stick or stone
 
 How exactly does one evaluate a JavaScript framework when they seem to popping up like a whack-a-mole game. One way candid way is to simply fact check the framework. Who makes it, how good is the documentation? For example, I will now list a couple frameworks, with justification, that I feel are rock-solid.
 
--React.JS
+-[React.JS](https://facebook.github.io/react/
 
 This framework was invented by FaceBook to solve their problem of "ghost messages" appearing on their users accounts. The problem was the server could not update faster than user were reading messages, so they would appear unread constantly. The solution was what FaceBook coined as a Virtual-DOM object. This way, FaceBook could update the UI behind the scenes of the user and serve data while they are none the wiser. This frame work is quickly becoming one of the hottest names in JavaScript.
 
--Angular.JS
+-[Angular.JS](https://angularjs.org/
 
 Created by Google, Angular.JS is a much more robust library. Angular is capable of building full-scale web applications by itself but the beauty of Angular, and all JavaScript really, is that you can pick and choose what you like from each framework and go with it. For example, Angular gives incredibly powerful data modeling tools and React gives you an awesome UI engine, why not combine both and make an even better web app than before!
 
--EJS
+-[EJS](http://www.embeddedjs.com/
 
 Need a template? Look no further than EJS, this old library is still used as one of the most popular choice for templating across the world. EJS provides an ugly, but doable syntax that lets you wield the entirity of JavaScript directly in-line with your HTML! I will admit, this framework is seriously powerful, I am not sure of the limitations at this moment. Last I read, there is also direct integration with CoffeeScript (another framework).
+
+-[CoffeeScript](http://coffeescript.org/)
+
+In my essay, Impression of a Software Developer, I mentioned the CSS framework Sass.
