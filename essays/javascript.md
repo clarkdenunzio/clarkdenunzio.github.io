@@ -24,3 +24,7 @@ This framework was invented by FaceBook to solve their problem of "ghost message
 -Angular.JS
 
 Created by Google, Angular.JS is a much more robust library. Angular is capable of building full-scale web applications by itself but the beauty of Angular, and all JavaScript really, is that you can pick and choose what you like from each framework and go with it. For example, Angular gives incredibly powerful data modeling tools and React gives you an awesome UI engine, why not combine both and make an even better web app than before!
+
+-EJS
+
+Need a template? Look no further than EJS, this old library is still used as one of the most popular choice for templating across the world. EJS provides an ugly, but doable syntax that lets you wield the entirity of JavaScript directly in-line with your HTML! I will admit, this framework is seriously powerful, I am not sure of the limitations at this moment. Last I read, there is also direct integration with CoffeeScript (another framework).
