@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/twitch-square.png
-title: Cotton
+title: TwitchTV
 permalink: projects/twitch
 date: 2017
 labels:
@@ -11,7 +11,7 @@ labels:
 summary: A relaunch planned for a professionally-appropriate remix of my old Twitch.tv stream.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/twitch-banner.png">
+<img class="ui medium bordered image" src="{{ site.baseurl }}/images/twitch-banner.png">
 
 It would be easy to assume that it's boring to watch someone else play a video game, and that is what I thought too before I started watching [Twitch TV](http://twitch.tv/). In fact, I found it to be one of the most entertaining ways to hone skills at sometimes frustrating multiplayer games.
 
