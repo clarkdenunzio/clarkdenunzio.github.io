@@ -12,10 +12,10 @@ labels:
 summary: Embedded Systems Design--Team based EE x96 project course focused on using Arduino.
 ---
 
-<div class="ui teal inverted center aligned segment">
-<div class="ui center aligned segment">
+<div class="ui black inverted center aligned segment">
+
     <h2 class="ui header">Video Demonstration</h2>
-</div>
+
 </div>
 
 <div class="ui container">
