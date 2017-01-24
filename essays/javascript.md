@@ -32,3 +32,7 @@ Need a template? Look no further than EJS, this old library is still used as one
 -[CoffeeScript](http://coffeescript.org/)
 
 In my essay, Impression of a Software Developer, I mentioned the CSS framework Sass. If you are familiar with a pre-processor than that is exactly what CoffeeScript is. Think of it as what Sass is to CSS, CoffeeScript is to JavaScript. With CoffeeScript you are given a friendly set of syntax rules that you can use to create what's known as a "cup". Then you can compile your "cup" into raw, minimized JavaScript. It fits in the ecosystem because, where JavaScript is hard to read, CoffeeScript is not.
+
+
+I hope you enjoyed my brief introduction to my discoveries thus far in JavaScript. I will attempt to keep this list updated with more helpful information, and current thoughts as time goes by so, be sure to check back!
+
