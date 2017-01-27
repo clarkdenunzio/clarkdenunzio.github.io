@@ -28,7 +28,7 @@ Let us reflect on the following question from the ever-popular [Stack Overflow](
 
 Moving on, some questions may seem fun or relevant to discuss however no true value is being gained from such questions as they are more of a philosophical dialogue rather than true question.
 
-I have chosen the [following question](http://stackoverflow.com/questions/30271988/jquery-vs-new-javascript-frameworks-libraries-angular-ember-react-etc/33315002#33315002), and let us once again examine a couple points about why this question might be considered a waste of time by the community. 
+I have chosen the [following question](http://stackoverflow.com/questions/30271988/jquery-vs-new-javascript-frameworks-libraries-angular-ember-react-etc/33315002), and let us once again examine a couple points about why this question might be considered a waste of time by the community. 
 
 -Moot Point: This question was actually closed by an admin for this exact reason. Not to steal the words of the admin, but questions like this may spark an interesting debate but truly no one is gaining a solution like this. It is more like an ongoing debate, and it seems as if the original poster is already very unsure of the topic and will likely change their mind in the future either way.
 
