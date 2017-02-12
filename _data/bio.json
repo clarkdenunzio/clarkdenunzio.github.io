@@ -3,10 +3,10 @@
     "name": "Clark DeNunzio",
     "label": "Student",
     "picture": "https://clarkdenunzio.github.io/images/IMG_0660.JPG",
-    "email": "clarkden@hawaii.edu",
+    "email": "clark@clarkdenunzio.com",
     "phone": "",
     "website": "https://clarkdenunzio.github.io",
-    "summary": "Hello friends, I am studying for my B.S. in Computer Engineering at the University of Hawaii. I expect to graduate in Spring, 2018, after which my goal is to pursue entrepreneurism. Please stay tuned for more releases as I gain skill during my undergraduate.",
+    "summary": "Journeyman entrepreneur and developer, studying for B.S. in Computer Engineering at the University of Hawaii. Expected graduation date: Spring, 2018. My goal is to create digital products that will facilitate permanent jobs in Hawai'i without leaving a fingerprint on our dear Earth. Please stay tuned for more releases as I gain skill during my undergraduate.",
     "location": {
       "address": "",
       "postalCode": "96734",
@@ -26,23 +26,23 @@
         "url": "http://linkedin.com/in/clarkdenunzio"
       },
       {
-        "network": "twitter",
+        "network": "medium",
         "username": "clarkdenunzio",
-        "url": "http://twitter.com/clarkdenunzio"
+        "url": "http://medium.com/@clarkdenunzio"
       },
       {
-        "network": "instagram",
+        "network": "twitch",
         "username": "clarkdenunzio",
-        "url": "http://instagram.com/clarkdenunzio"
+        "url": "http://twitch.tv/clarkdenunzio"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "blogging",
       "keywords": [
-        "Arduino",
-        "Raspberry Pi"
+        "Hexo",
+        "Wordpress"
       ]
     },
     {
@@ -53,10 +53,10 @@
       ]
     },
     {
-      "name": "node.js",
+      "name": "web development",
       "keywords": [
-        "Hexo",
-        "React.js"
+        "Node.js",
+        "Twitter Bootstrap"
       ]
     },
     {
@@ -68,7 +68,7 @@
     {
       "name": "Ubuntu",
       "keywords": [
-        "EC2",
+        "Server Architecture",
         "System Administration"
       ]
     }
@@ -96,6 +96,13 @@
         "Git/GitHub",
         "g++",
         "CentOS"
+      ]
+    },
+    {
+      "name": "Natural Languages",
+      "level": "Intermediate",
+      "keywords": [
+        "Japanese"
       ]
     }
   ],
