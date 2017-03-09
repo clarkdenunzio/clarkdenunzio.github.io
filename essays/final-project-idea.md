@@ -9,6 +9,9 @@ labels:
 ---
 
 # IsGymCrowded App
+## By: Clark DeNunzio and Raena Naka
+
+<img class="ui centered medium image" src="../images/IMG_1675.jpg">
 
 <hr>
 ## Overview (including “The problem” and “The solution”)
