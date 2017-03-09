@@ -17,6 +17,7 @@ labels:
 ## Overview (including “The problem” and “The solution”)
 Have you been to the [Gym at UH Manoa](https://manoa.hawaii.edu/studentrec/fitnesscenter/hours.html) and it took you an hour and forty-five minutes to complete your thirty minute routine?
 The gym at UH is undoubtedly a great facility and it is a great, additional resource for students that pay their activity's fee. However, because of traffic, campus can get crowded around certain times of the day like the lunch hour and particularly at the gym around 3 p.m. when most students finish class. This leads to wait-times and it can be hard to use the equipment you want efficiently.
+<iframe src="//giphy.com/embed/l0ExtLXXJ5FiBozPa" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/ndr-time-waiting-l0ExtLXXJ5FiBozPa">via GIPHY</a></p>
 <hr>
 ## Mockup page ideas
 Students can login and approve the app to access their class schedule. There can be a schedule screen where students can pick workouts for certain days. Another tab could include a "Log" so students can track their progress on certain excercise groups such as the weight they are lifting on particular machines.
