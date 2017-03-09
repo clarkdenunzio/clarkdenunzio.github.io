@@ -15,7 +15,7 @@ labels:
 
 <hr>
 ## Overview (including “The problem” and “The solution”)
-Have you been to the Gym at UH Manoa and it took you an hour and forty-five minutes to complete your thirty minute routine?
+Have you been to the [Gym at UH Manoa](https://manoa.hawaii.edu/studentrec/fitnesscenter/hours.html) and it took you an hour and forty-five minutes to complete your thirty minute routine?
 The gym at UH is undoubtedly a great facility and it is a great, additional resource for students that pay their activity's fee. However, because of traffic, campus can get crowded around certain times of the day like the lunch hour and particularly at the gym around 3 p.m. when most students finish class. This leads to wait-times and it can be hard to use the equipment you want efficiently.
 <hr>
 ## Mockup page ideas
