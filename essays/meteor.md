@@ -29,7 +29,7 @@ Hot-Reloading:
 
 Mini-Mongo: 
 
-  Meteor uses MongoDB as it's backend leveraging a service called miniMongo in use with the actual Application itself. MiniMongo is a localized session of the Application's MongoDB database that is active among all the sessions of all the users on the Application. Meteor has a centralized location of MongoDB that it will automatically tabulate and, to preserve the integrity of the centralized MongoDB, it will issue sessions of miniMongo to the users with access to just the collections they need. Once the user closes their session, MongoDB will then recursively add the changes of their miniMongo session back into the centralized MongoDB and redistribute the changes to the remaining miniMongo sessions. This powerful tool shows of the asyncronous paradigm of JavaScript.
+  Meteor uses MongoDB as it's backend leveraging a service called miniMongo in use with the actual Application itself. MiniMongo is a localized session of the Application's MongoDB database that is active among all the sessions of all the users on the Application. Meteor has a centralized location of MongoDB that it will automatically tabulate and, to preserve the integrity of the centralized MongoDB, it will issue sessions of miniMongo to the users with access to just the collections they need. Once the user closes their session, MongoDB will then recursively add the changes of their miniMongo session back into the centralized MongoDB and redistribute the changes to the remaining miniMongo sessions. This powerful tool shows of the asyncronous paradigm off JavaScript.
 
 <hr>
 
