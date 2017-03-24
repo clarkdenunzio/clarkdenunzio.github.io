@@ -25,11 +25,15 @@ Hot-Reloading:
 
   In line the Meteor server will restart and adjust to changes made in the source code. Furthermore, the Meteor server will also ouput intuitive error messages to help the developer debug the application back to a working state. Meteor crashes gracefully and has several nuances to let you know that something is not rigged up properly. Such as stylesheets breaking until a page is fully qualified with working routes. This saves an incredible amount of time, believe it or not.
 
+<img class="ui centered medium image" src="../images/hotReload.png">
+
 <hr>
 
 Mini-Mongo: 
 
   Meteor uses MongoDB as it's backend leveraging a service called miniMongo in use with the actual Application itself. MiniMongo is a localized session of the Application's MongoDB database that is active among all the sessions of all the users on the Application. Meteor has a centralized location of MongoDB that it will automatically tabulate and, to preserve the integrity of the centralized MongoDB, it will issue sessions of miniMongo to the users with access to just the collections they need. Once the user closes their session, MongoDB will then recursively add the changes of their miniMongo session back into the centralized MongoDB and redistribute the changes to the remaining miniMongo sessions. This powerful tool shows of the asyncronous paradigm off JavaScript.
+
+<img class="ui centered medium image" src="../images/miniMongo.png">
 
 <hr>
 
