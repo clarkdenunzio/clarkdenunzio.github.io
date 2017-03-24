@@ -11,7 +11,7 @@ labels:
 
 <img class="ui centered medium image" src="../images/meteor-logo.png">
 
-[Meteor.JS](meteor.com)
+[Meteor.JS](http://meteor.com)
 
 <hr>
 
