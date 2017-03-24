@@ -41,3 +41,6 @@ Other than that, it's just another JavaScript framework among the hundreds of ne
 
 
 JavaScript is so cluttered I'm beginning to wonder, who cares anymore? For JavaScript in 2017, congruently with the rise of the Trump administration, it's time to take a serious evaluation of the current situation. If it only takes me about 45 minutes of raw, honest effort to translate my skills to a new framework, then how can it be argued that said framework was even necessary? How many punctuationMark.JS or sciFiWord.JS do we need before we realize that it's just developers desperately trying to pad their social media accounts? Furthermore, what are they developing these hundreds of "frameworks" for; if they are only using them to make uninspired clones of preexisting Apps that were never really that innovative to begin with? It seems like fear of displeasing an imaginary grey-haired corporate executive is the only thing driving frontend developers these days, which leads me to conclude that learning "frameworks" is nothing more than beating a dead horse. 
+
+<img class="ui centered medium image" src="../images/ohWell.png">
+
