@@ -2,10 +2,10 @@
   "basics": {
     "name": "Clark DeNunzio",
     "label": "Student",
-    "picture": "https://clarkdenunzio.github.io/images/IMG_0660.JPG",
+    "picture": "https://unjammy.github.io/images/IMG_0660.JPG",
     "email": "clark@clarkdenunzio.com",
     "phone": "",
-    "website": "https://clarkdenunzio.github.io",
+    "website": "https://unjammy.github.io",
     "summary": "Journeyman entrepreneur and developer, studying for B.S. in Computer Engineering at the University of Hawaii. Expected graduation date: Spring, 2018. My goal is to create digital products that will facilitate permanent jobs in Hawai'i without leaving a fingerprint on our dear Earth. Please stay tuned for more releases as I gain skill during my undergraduate.",
     "location": {
       "address": "",
@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "github",
-        "username": "clarkdenunzio",
-        "url": "http://github.com/clarkdenunzio"
+        "username": "unjammy",
+        "url": "http://github.com/unjammy"
       },
       {
         "network": "linkedin",
