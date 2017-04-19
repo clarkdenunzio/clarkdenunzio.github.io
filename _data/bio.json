@@ -2,7 +2,7 @@
   "basics": {
     "name": "Clark DeNunzio",
     "label": "Student",
-    "picture": "https://unjammy.github.io/images/IMG_0660.JPG",
+    "picture": "https://clarkdenunzio.com/images/IMG_0660.JPG",
     "email": "clark@clarkdenunzio.com",
     "phone": "",
     "website": "https://unjammy.me/",
@@ -18,22 +18,22 @@
       {
         "network": "github",
         "username": "unjammy",
-        "url": "http://github.com/unjammy"
+        "url": "https://github.com/unjammy"
       },
       {
         "network": "twitch",
         "username": "unjammy",
-        "url": "http://twitch.com/unjammy"
+        "url": "https://twitch.com/unjammy"
       },
       {
         "network": "medium",
         "username": "clarkdenunzio",
-        "url": "http://medium.com/clarkdenunzio"
+        "url": "https://medium.com/clarkdenunzio"
       },
       {
         "network": "linkedin",
         "username": "clarkdenunzio",
-        "url": "http://linkedin.com/in/clarkdenunzio"
+        "url": "https://linkedin.com/in/clarkdenunzio"
       }
     ]
   },
@@ -125,7 +125,7 @@
     {
       "company": "DeNunzio Web Studios",
       "position": "Owner",
-      "website": "http://deunz.io/",
+      "website": "https://deunz.io/",
       "startDate": "2016-10-07",
       "endDate": "Present",
       "summary": "Sole Proprietorship to encapsulate web activity for tax purposes",
@@ -139,7 +139,7 @@
   "volunteer": [
     {
       "organization": "Pacific American Foundation",
-      "website": "http://www.thepaf.org/waikalua/",
+      "website": "https://www.thepaf.org/waikalua/",
       "position": "Student Volunteer",
       "startDate": "2011-01-11",
       "endDate": "2011-5-13",
