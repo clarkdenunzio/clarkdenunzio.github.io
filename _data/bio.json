@@ -21,19 +21,19 @@
         "url": "http://github.com/unjammy"
       },
       {
+        "network": "twitch",
+        "username": "unjammy",
+        "url": "http://twitch.com/unjammy"
+      },
+      {
+        "network": "medium",
+        "username": "clarkdenunzio",
+        "url": "http://medium.com/clarkdenunzio"
+      },
+      {
         "network": "linkedin",
         "username": "clarkdenunzio",
         "url": "http://linkedin.com/in/clarkdenunzio"
-      },
-      {
-        "network": "patreon",
-        "username": "unjammy",
-        "url": "http://patreon.com/unjammy"
-      },
-      {
-        "network": "twitch",
-        "username": "unjammy",
-        "url": "http://twitch.tv/unjammy"
       }
     ]
   },
