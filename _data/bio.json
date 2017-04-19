@@ -2,10 +2,10 @@
   "basics": {
     "name": "Clark DeNunzio",
     "label": "Student",
-    "picture": "https://clarkdenunzio.github.io/images/IMG_0660.JPG",
+    "picture": "https://unjammy.github.io/images/IMG_0660.JPG",
     "email": "clark@clarkdenunzio.com",
     "phone": "",
-    "website": "https://clarkdenunzio.github.io",
+    "website": "https://unjammy.me/",
     "summary": "Journeyman entrepreneur and developer, studying for B.S. in Computer Engineering at the University of Hawaii. Expected graduation date: Spring, 2018. My goal is to create digital products that will facilitate permanent jobs in Hawai'i without leaving a fingerprint on our dear Earth. Please stay tuned for more releases as I gain skill during my undergraduate.",
     "location": {
       "address": "",
@@ -18,7 +18,7 @@
       {
         "network": "github",
         "username": "unjammy",
-        "url": "http://github.com/clarkdenunzio"
+        "url": "http://github.com/unjammy"
       },
       {
         "network": "linkedin",
@@ -26,14 +26,14 @@
         "url": "http://linkedin.com/in/clarkdenunzio"
       },
       {
-        "network": "medium",
-        "username": "clarkdenunzio",
-        "url": "http://medium.com/@clarkdenunzio"
+        "network": "patreon",
+        "username": "unjammy",
+        "url": "http://patreon.com/unjammy"
       },
       {
         "network": "twitch",
-        "username": "clarkdenunzio",
-        "url": "http://twitch.tv/clarkdenunzio"
+        "username": "unjammy",
+        "url": "http://twitch.tv/unjammy"
       }
     ]
   },
@@ -66,10 +66,10 @@
       ]
     },
     {
-      "name": "Ubuntu",
+      "name": "linux",
       "keywords": [
-        "Server Architecture",
-        "System Administration"
+        "Open Source",
+        "Apache Foundation"
       ]
     }
   ],
