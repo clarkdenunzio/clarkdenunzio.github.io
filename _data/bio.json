@@ -82,10 +82,12 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "WordPress",
+        "Python",
         "HTML",
-        "CSS"
+        "CSS",
+        "JavaScript",
+        "Lua",
+        "Erlang"
       ]
     },
     {
@@ -94,9 +96,11 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
+        "CentOS",
+        "ArchLinx",
         "Git/GitHub",
         "g++",
-        "CentOS"
+        "npm"
       ]
     },
     {
@@ -110,7 +114,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Fall, 2018)",
       "studyType": "B.S",
       "startDate": "2016-09-01",
       "endDate": "Present",
@@ -122,25 +126,32 @@
       ]
     },
     {
-      "institution": "freeCodeCamp, San Fransisco, CA",
-      "area": "Computer Software Engineering (expected Spring, 2018)",
-      "studyType": "Full Stack Web Development Certification",
-      "startDate": "2016-09-01",
-      "endDate": "Present",
+      "institution": "DevLeague, Honolulu, HI",
+      "area": "Computer Software Engineering",
+      "studyType": "JavaScript Web Engineering Certification",
+      "startDate": "2017-05-13",
+      "endDate": "2017-11-22",
       "gpa": "",
-      "courses": [
-	"",
-      ]
+      "courses": []
+    },
+    {
+      "institution": "freeCodeCamp, San Fransisco, CA",
+      "area": "Computer Software Engineering",
+      "studyType": "Full Stack Web Development Certification",
+      "startDate": "2017-04-18",
+      "endDate": "2018-04-18",
+      "gpa": "",
+      "courses": []
     },
     {
       "institution": "Udacity, Mountain View, CA",
-      "area": "Computer Software Engineering (expected Spring, 2018)",
+      "area": "Computer Software Engineering",
       "studyType": "Nanodegree",
-      "startDate": "2016-09-01",
-      "endDate": "Present",
+      "startDate": "2017-04-18",
+      "endDate": "2018-04-18",
       "gpa": "2.5",
       "courses": [
-	"Data Analyst",
+	"Data Analyst Certification",
       ]
     }
   ],
