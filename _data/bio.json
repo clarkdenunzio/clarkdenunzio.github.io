@@ -27,8 +27,8 @@
       },
       {
         "network": "medium",
-        "username": "clarkdenunzio",
-        "url": "https://medium.com/clarkdenunzio"
+        "username": "unjammy",
+        "url": "https://medium.com/unjammy"
       },
       {
         "network": "linkedin",
@@ -42,21 +42,22 @@
       "name": "blogging",
       "keywords": [
         "Hexo",
-        "Wordpress"
+        "Wordpress",
+        "Ghost"
       ]
     },
     {
       "name": "e-commerce",
       "keywords": [
-        "Woocommerce",
-        "Alibaba"
+        "Shopify",
+        "Amazon Seller"
       ]
     },
     {
       "name": "web development",
       "keywords": [
-        "Node.js",
-        "RESTful APIs"
+        "npm",
+        "MongoDB"
       ]
     },
     {
@@ -109,8 +110,8 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
+      "area": "Computer Engineering (expected Spring, 2018)",
+      "studyType": "B.S",
       "startDate": "2016-09-01",
       "endDate": "Present",
       "gpa": "2.5",
@@ -118,6 +119,28 @@
 	"ICS 311 - Algorithms",
 	"ICS 314 - Software Engineering",
 	"EE 361 - Computer Architecture"
+      ]
+    },
+    {
+      "institution": "freeCodeCamp, San Fransisco, CA",
+      "area": "Computer Software Engineering (expected Spring, 2018)",
+      "studyType": "Full Stack Web Development Certification",
+      "startDate": "2016-09-01",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+	"",
+      ]
+    },
+    {
+      "institution": "Udacity, Mountain View, CA",
+      "area": "Computer Software Engineering (expected Spring, 2018)",
+      "studyType": "Nanodegree",
+      "startDate": "2016-09-01",
+      "endDate": "Present",
+      "gpa": "2.5",
+      "courses": [
+	"Data Analyst",
       ]
     }
   ],
@@ -141,8 +164,8 @@
       "organization": "Pacific American Foundation",
       "website": "https://www.thepaf.org/waikalua/",
       "position": "Student Volunteer",
-      "startDate": "2011-01-11",
-      "endDate": "2011-5-13",
+      "startDate": "",
+      "endDate": "",
       "summary": "Study and Restore Waikalua Loko Fishpond with Windward Community College",
       "highlights": [
         "Trim back invasive Mangrove species in the Fishpond",
@@ -154,9 +177,9 @@
   "awards": [
     {
       "title": "White Belt",
-      "date": "September 2016",
+      "date": "2016",
       "awarder": "Gracie Jiu Jitsu Kailua",
-      "summary": "Advancements toward higher belts"
+      "summary": "Advancements made toward higher belts"
     }
   ],
   "references": [
