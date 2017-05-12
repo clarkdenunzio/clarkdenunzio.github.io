@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/twitch-square.jpg
 title: TwitchTV
-permalink: https://twitch.tv/unjammy
+permalink: projects/twitch
 date: 2017
 labels:
   - Live Coding
