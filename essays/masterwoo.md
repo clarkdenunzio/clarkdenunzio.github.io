@@ -8,6 +8,8 @@ labels:
   - Frameworks
 ---
 
+## By: Clark DeNunzio
+
 <img class="ui centered medium image" src="../images/expert.png">
 
 When it all began I was either watching an episode of ABC's Shark Tank or NBC's The Profit; once I saw what qualified as a passable business plan, I was hooked. 
