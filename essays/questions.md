@@ -1,15 +1,14 @@
 ---
 layout: essay
 type: essay
-title: Impression of Asking Smart Questions
+title: How To Get The Answers You Want
 date: 2017-01-26
 labels:
   - Software Engineering
   - Stack Exchange
   - Etiquette
 ---
-
-<iframe src="//giphy.com/embed/pYf9TmERwNNL2" width="480" height="284" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/the-big-lebowski-jeff-bridges-pYf9TmERwNNL2">via GIPHY</a></p>
+<img class="ui centered medium image" src="../images/answers.jpg">
 
 Wouldn't it be nice if we could have all the answers just handed to us and explained in plain English? I would think so too, except, unless you're a rockstar singer or beautiful model with a team of managers and agents, then that's probably not going to happen. Therefore, it's important to note that the ability to sift through large bulks of information and find the one piece that is actually relevant to your case, or eventually giving up and begging the community for help, is indeed the heart of hacking.
 Luckily for us, we have the internet at our disposal which let's us steal from the souls of an innumberable number of intellectuals that have since entered and gone from this world. With a diligent mind one can teach themselves almost any skill imaginable from the gurus of the net. It is a scary, yet powerful thing, and it is time to start using that power for yourself sooner rather than later.
