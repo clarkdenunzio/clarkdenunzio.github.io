@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/logo.png
 title: AvaLunch
-permalink: projects/denunzio
+permalink: projects/avalunch
 date: 2016
 labels:
   - Meteor
