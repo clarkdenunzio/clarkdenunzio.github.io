@@ -30,4 +30,4 @@ AvaLunch analyzes current food preferences and favorites with respect to the stu
 
 AvaLunch helps  students evaluate the sometimes overwhelming number of food choices and the varying properties of the meals they are seeking for proper nutrition, and determine ways to invest their time most productively during what may be a short lunch break period.
 
-RadGrad also helps students by providing data-backed evidence regarding the favorites, previously-tweeted, and other new recommendations based on browsing and shopping history.
+AvaLunch also helps students by providing data-backed evidence regarding the favorites, previously-tweeted, and other new recommendations based on browsing and shopping history.
