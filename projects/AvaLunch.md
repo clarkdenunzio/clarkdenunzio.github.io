@@ -19,7 +19,7 @@ Welcome to AvaLunch, this project was completed by three team members over the c
 
 Please view our [GitHub Organization](https://github.com/avalunch) to learn more about the team members.
 
-All source code for our project can be found onGitHub [here](https://github.com/Avalunch/Avalunch).
+All source code for our project can be found on GitHub [here](https://github.com/Avalunch/Avalunch).
 
 Or, please, take our guided walkthrough [here](https://avalunch.github.io).
 
