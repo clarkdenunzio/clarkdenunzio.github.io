@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Impression of JavaScript
+title: A Brief Introduction Of JavaScript
 date: 2017-01-20
 labels:
   - Software Engineering
