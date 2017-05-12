@@ -15,6 +15,10 @@ labels:
 
 <hr>
 
+JavaScript frameworks come in flavours similiar to our favorite craft beers, and just like how we would defend our favorite craft beer against a naysayer, it's just as easy to be drawn into a pitched argument about JavaScript frameworks. To label which ones you prefer is to be like a skilled connoisseur of the craft... of JavaScript... or beer. To describe Meteor.JS is to find yourself drinking a full-bodied, stout beer that feels almost creamy. There is a higher ingredient content in this beer, and the brewing process was largely experimental until the flavored could be calibrated to perfection.
+
+<img class="ui centered medium image" src="../images/craftyboy.jpg">
+
 Meteor in general is a different flavour of HTML, CSS, and JavaScript but like with any framework these skills can easily be moulded into the correctly functioning versions of themselves. Overall, working with Meteor has been a joy compared to other frameworks, and I'm impressed with it's out-of-the-box functionality for sure. The only problem is that it's exceptionally heavy-weight... I'm talking super-massive, like orders of orders of magnitude in comparison to other frameworks. For what they are making you buy, it better work out-of-the-box, and it better have intuitive commands. Luckily Meteor actually delivers these entry points, and using the software is actually graceful, once you overlook the gigabytes of Harddrive space being consumed by a measly JavaScipt app.
 
 It's obvious that Meteor isn't going to be for everything because of it's inordinate use of system resources, but it's still cool, and worth considering for production level applications; for a hobbyist, not so much, as the costs of deploying the application are simply too great. Just developing simple tutorials on my local machine has consumed 10 gigabytes of Harddrive space, so I cannot begin to think of the complexity costs of using Meteor at production scale. The framework comes with some interesting features that may explain it's size. Hot-Reloading and distributed miniMongo sessions are, for sure, some worthwhile pieces of technology to take advantage of with Meteor. 
