@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/avalunch.gif
+image: images/logo.png
 title: AvaLunch
 permalink: projects/denunzio
 date: 2016
