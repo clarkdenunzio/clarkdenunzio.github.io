@@ -9,7 +9,7 @@ labels:
   - Live Coding
   - Streaming
   - Twitch
-summary: A relaunch planned for a professionally-appropriate remix of my old Twitch.TV stream.
+summary: A relaunch for a professionally-appropriate remix of my old Twitch.TV stream.
 ---
 
 <img class="ui fluid image" src="{{ site.baseurl }}/images/twitch-banner.jpg">
