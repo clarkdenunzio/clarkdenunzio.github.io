@@ -3,12 +3,13 @@ layout: project
 type: project
 image: images/twitch-square.jpg
 title: TwitchTV
-permalink: projects/twitch
+permalink: https://twitch.tv/unjammy
 date: 2017
 labels:
+  - Live Coding
   - Streaming
   - Twitch
-summary: A relaunch planned for a professionally-appropriate remix of my old Twitch.tv stream.
+summary: A relaunch planned for a professionally-appropriate remix of my old Twitch.TV stream.
 ---
 
 <img class="ui fluid image" src="{{ site.baseurl }}/images/twitch-banner.jpg">
