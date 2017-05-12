@@ -37,7 +37,7 @@ Mini-Mongo:
 
 <hr>
 
-Other than that, it's just another JavaScript framework among all the others that we have come to know and love. Using Meteor, however, with it's robust and complete toolset makes for an incredible learning experience. To just be able to identify and correctly use MongoDB after coming from a pure frontend background is nothing short of miraculous in my opinion. By deep diving into Meteor, a developer can familiarize themselves with all of the defacto standards of the web at this moment in time.
+Other than that, it's just another JavaScript framework among all the others that we have come to know and love. Using Meteor, however, with it's robust and complete toolset makes for an incredible learning experience. To just be able to identify and correctly use MongoDB after coming from a pure frontend background is nothing short of miraculous in my opinion. By deep diving into Meteor, a developer can familiarize themselves with all of the defacto standards of the web at this moment in time. I encourage all readers to at least investigate Meteor at some point in time, although it is an extraordinarily large framework, the chance to learn new web development caveats is well worth your harddrive space.
 
 <img class="ui centered medium image" src="../images/ohWell.png">
 
